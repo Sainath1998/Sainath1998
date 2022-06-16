@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sainath1998
-- 👀 I’m interested in data analysis , data science and webDevelopment.
+- 👀 I’m a backend dev.
 - 🌱 I’m currently learning data analytics frontend web development
 
 <!---
