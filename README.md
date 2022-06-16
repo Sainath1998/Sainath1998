@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sainath1998
 - 👀 I’m a backend dev.
-- 🌱 I’m currently learning data analytics frontend web development
+- 🌱 I’m currently working on nodejs
 
 <!---
 Sainath1998/Sainath1998 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
